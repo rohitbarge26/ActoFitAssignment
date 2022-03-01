@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActoFitAssignment</string>
+    <string name="SplashText">ActoFit Assignment By Rohit Barge!</string>
+    <string name="UserName">User Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="log_in">Log-In</string>
+
+    <string name="mobileNumberPattern">[6-9][0-9]{9}</string>
+    <string name="mobileNumberError">Mobile Number starting digit shall be 6, 7, 8 or 9.*</string>
+</resources>
